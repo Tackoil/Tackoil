@@ -4,7 +4,7 @@
 
 ### About me 
 
-- 🎈 Working hard for React and something about frontend.
+- 🎈 Working hard for Vue and something about frontend.
 - 👀 Being interested in linguistics.
 - 🥦 A green hand of motion graph design.
 - ☹️ Hate the things human can't control. ~~(It's you, physics.)~~
