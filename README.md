@@ -1,12 +1,12 @@
 ### I'm here 👋
 
-- Studying for a master degree.
+- A noob of work.
 
 ### About me 
 
-- 🎈 Working hard for Vue and something about frontend.
+- 🎈 Working hard for web multi-media, auto-testing and something else about frontend.
 - 👀 Being interested in linguistics.
-- 🥦 A green hand of motion graph design.
+- 🥦 A newbie of motion graph design.
 - ☹️ Hate the things human can't control. ~~(It's you, physics.)~~
 
 
