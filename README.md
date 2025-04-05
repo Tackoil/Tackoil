@@ -4,11 +4,9 @@
 
 ### About me 
 
-- 🎈 Working hard for RTC, auto-testing and something else about frontend.
+- 🎈 Working hard for RTC / WebRTC, auto-testing and front-end developing.
 - 👀 Being interested in linguistics.
-- 🥦 A newbie of motion graph design.
-- ☹️ Hate the things human can't control. ~~(It's you, physics.)~~
-
+- 🔰 A newbie of motion graph design.
 
 <!--
 **Tackoil/Tackoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
